@@ -1,1 +1,5 @@
-this is my git second third fourth fifth master sixth
+<<<<<<< HEAD
+this is my git second third fourth fifth new sixth
+=======
+this is my git second third fourth fifth new sixth
+>>>>>>> new
